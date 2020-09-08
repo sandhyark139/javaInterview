@@ -1,0 +1,1 @@
+insert into sandhya(`id`,`name`,`DateofBirth`) values(10001,'geetha',sysdate())
